@@ -1,4 +1,4 @@
-#Adeeba Haq
+## Adeeba Haq
 
 I am a Computer Science student at FAST National University of Computer and Emerging Sciences, Lahore. I love building web applications and exploring software engineering. I enjoy learning new technologies and creating projects that solve real-world problems.
 
