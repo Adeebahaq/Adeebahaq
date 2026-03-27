@@ -16,10 +16,10 @@ I am a Computer Science student at FAST National University of Computer and Emer
 
 ##  Featured Projects
 
-- [**WorkBridge (Job Matching Platform)**](#) – Connect informal workers with employers, including job and user management features.  
-- [**Child Guard Website**](#) – Responsive child safety platform with improved UX and accessibility.  
-- [**FYPConnect Portal**](#) – Role-based system for managing final year projects with secure workflows.  
-- [**Online Pharmacy Web App**](#) – Platform for browsing medicines, placing orders, and managing inventory.  
+- [**WorkBridge (Job Matching Platform)**](#) : Connect informal workers with employers, including job and user management features.  
+- [**Child Guard Website**](#) : Responsive child safety platform with improved UX and accessibility.  
+- [**FYPConnect Portal**](#) : Role-based system for managing final year projects with secure workflows.  
+- [**Online Pharmacy Web App**](#) : Platform for browsing medicines, placing orders, and managing inventory.  
 
 ---
 
