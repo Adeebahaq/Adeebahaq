@@ -4,7 +4,7 @@ I am a Computer Science student at FAST National University of Computer and Emer
 
 ---
 
-## 🔧 Skills & Tech Stack
+##  Skills & Tech Stack
 
 - **Languages:** C, C++, JavaScript, Python, HTML, CSS  
 - **Frameworks & Libraries:** React, Node.js, Tailwind, Bootstrap  
@@ -14,7 +14,7 @@ I am a Computer Science student at FAST National University of Computer and Emer
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 - [**WorkBridge (Job Matching Platform)**](#) – Connect informal workers with employers, including job and user management features.  
 - [**Child Guard Website**](#) – Responsive child safety platform with improved UX and accessibility.  
