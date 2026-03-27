@@ -24,8 +24,6 @@ I am a Computer Science student at FAST National University of Computer and Emer
 ---
 
 
----
-
 ##  Connect With Me
 
 - **Email:** adeebahaq2005@gmail.com  
