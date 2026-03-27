@@ -26,10 +26,10 @@ I am a Computer Science student at FAST National University of Computer and Emer
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **Email:** adeebahaq2005@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/adeeba-haq-214b783aa/  
 ---
 
-Thanks for visiting my GitHub profile! 🚀
+Thanks for visiting my GitHub profile! 
